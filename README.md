@@ -1,6 +1,10 @@
 <h1 align="center">Godcoaco</h1>
 <h3 align="center">I'm the student from thailand. Just wanna learn code >:3</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=godcoaco&label=Profile%20views&color=0e75b6&style=flat" alt="godcoaco" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=godcoaco" alt="godcoaco" /></a> </p>
+
 - 🌱 I’m currently learning **Cyber security, front end**
 
 - 📫 How to reach me **phubet.manajit@gmail.com**
