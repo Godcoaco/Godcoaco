@@ -1,4 +1,4 @@
-<h1 align="center">I just love typing godcoaco</h1>
+<h1 align="center">Godcoaco</h1>
 <h3 align="center">I'm the student from thailand. Just wanna learn code >:3</h3>
 
 - 🌱 I’m currently learning **Cyber security, front end**
