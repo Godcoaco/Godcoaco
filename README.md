@@ -16,7 +16,7 @@
 
 ### `$ whoami`
 
-I'm a computer science student interested in cybersecurity, software development, and digital forensics.
+I'm a student interested in cybersecurity, software development, and digital forensics.
 
 I enjoy understanding how systems work, exploring their weaknesses, building useful applications, and learning through hands-on challenges.
 
@@ -28,20 +28,10 @@ I enjoy understanding how systems work, exploring their weaknesses, building use
 
 ---
 
-### `$ ls ~/projects`
-
-| Project | Description |
-|---|---|
-| **ThaiGuide** | Tourism platform using gamification and AI to improve travel experiences. |
-| **Floodguard** | Flood-monitoring platform with sensor integration, real-time alerts, and interactive maps. |
-| **picoCTF Writeups** | CTF walkthroughs covering Cryptography, Forensics, Reverse Engineering, and more. |
-
----
-
 ### `$ cat skills.txt`
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,html,ts,js,react,nextjsdiscord,obsidian,vscode,vercel,tailwind,firebase,supabase,linux,git&perline=6" alt="Technology skills" />
+  <img src="https://skillicons.dev/icons?i=python,c,html,ts,js,react,nextjs,discord,obsidian,vscode,vercel,tailwind,firebase,supabase,linux,git&perline=6" alt="Technology skills" />
 </div>
 
 **Cybersecurity toolkit**
