@@ -1,13 +1,72 @@
-<h1 align="center">Godcoaco</h1>
-<h3 align="center">I'm the student from thailand. Just wanna learn code >:3</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=godcoaco&label=Profile%20views&color=0e75b6&style=flat" alt="godcoaco" /> </p>
+<div align="center">
 
-- 🌱 I’m currently learning **Cyber security, front end**
+# `Godcoaco`
 
-- 📫 How to reach me **phubet.manajit@gmail.com**
+**`Cybersecurity Enthusiast | Developer | Computer Science Student`**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=39D353&center=true&vCenter=true&width=500&lines=Exploring+the+world+of+cybersecurity;Building+things+and+breaking+things+(ethically);Learning+something+new+every+day" alt="Typing SVG" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=godcoaco&" alt="godcoaco" /></p>
+![3D Contribution Tower](./profile-3d-contrib/profile-night-green.svg)
+
+`[ SYSTEM ONLINE ]` · `[ ACCESS GRANTED ]` · `[ KEEP LEARNING ]`
+
+</div>
+
+$ whoami
+
+I'm a computer science student interested in cybersecurity, software development, and digital forensics.
+
+I enjoy understanding how systems work, exploring their weaknesses, building useful applications, and learning through hands-on challenges.
+
+Currently exploring:
+
+Cybersecurity and ethical hacking
+
+Digital forensics and CTF challenges
+
+Web application security
+
+Software development and AI
+
+$ ls ~/projects
+
+Project
+
+Description
+
+ThaiGuide
+
+Tourism platform using gamification and AI to improve travel experiences.
+
+Floodguard
+
+Flood-monitoring platform with sensor integration, real-time alerts, and interactive maps.
+
+picoCTF Writeups
+
+CTF walkthroughs covering Cryptography, Forensics, Reverse Engineering, and more.
+
+$ cat skills.txt
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,ts,js,react,nextjs,tailwind,firebase,linux,docker,git&perline=6" alt="Technology skills" />
+</p>
+
+Cybersecurity toolkit
+
+Wireshark · Autopsy · CyberChef · Kali Linux · OWASP ZAP
+
+Areas of interest
+
+Digital Forensics · CTF · Web Security · Cryptography · Reverse Engineering
+
+$ github --stats
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Godcoaco&show_icons=true&theme=merko&hide_border=true&bg_color=0D1117&title_color=39D353&icon_color=39D353" alt="GitHub statistics" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Godcoaco&layout=compact&theme=merko&hide_border=true&bg_color=0D1117&title_color=39D353" alt="Top languages" />
+
+</div>
