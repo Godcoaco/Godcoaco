@@ -3,7 +3,7 @@
 
 # `Godcoaco`
 
-**`Cybersecurity Enthusiast | Developer | Computer Science Student`**
+**`Cybersecurity Enthusiast | Developer | Student`**
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=39D353&center=true&vCenter=true&width=500&lines=Exploring+the+world+of+cybersecurity;Building+things+and+breaking+things+(ethically);Learning+something+new+every+day" alt="Typing SVG" />
 
